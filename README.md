@@ -6,8 +6,6 @@ This repository implements three related data projects:
 2. **German Credit Dataset Analysis** – preprocessing, exploratory analysis, and visualizations on the classic German Credit CSV file using pandas.
 3. **DIY Dataset Project** – a full data-cleaning pipeline, custom analyses, and visualizations on a public CSV dataset of my choice.
 
-The original specification defines the overall structure, point breakdown (250 points total), deadlines, and Autolab submission rules. This repo just contains the code and notebooks that follow that spec.
-
 ---
 
 ## Project Structure
