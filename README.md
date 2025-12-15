@@ -22,7 +22,7 @@ This repository implements three related data projects:
 ├── diy_dataset.ipynb         # Problem 3: DIY dataset cleaning, analysis, visualizations
 ├── diy_dataset.csv           # Cleaned DIY dataset saved after preprocessing
 
-Text Processing & TF-IDF (tfidf.py)
+**Text Processing & TF-IDF (tfidf.py)**
 
 Read raw text documents listed in a control file
 
@@ -42,7 +42,8 @@ Ranked terms by importance and saved the top 5 keywords per document
 
 Output cleaned text files and TF-IDF result files automatically
 
-German Credit Dataset Analysis (german_credit.ipynb)
+
+**German Credit Dataset Analysis (german_credit.ipynb)**
 
 Loaded the German Credit CSV dataset into pandas
 
@@ -56,7 +57,8 @@ Identified patterns related to credit risk and borrower characteristics
 
 Prepared the dataset for downstream statistical or ML analysis
 
-DIY Dataset Cleaning & Analysis (diy_dataset.ipynb)
+
+**DIY Dataset Cleaning & Analysis (diy_dataset.ipynb)**
 
 Loaded a self-selected public CSV dataset
 
